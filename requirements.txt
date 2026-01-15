@@ -1,0 +1,4 @@
+# Python deps for the notebook
+numpy
+matplotlib
+scikit-learn
